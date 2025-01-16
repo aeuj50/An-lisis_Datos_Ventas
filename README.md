@@ -53,7 +53,7 @@ El conjunto de datos incluye 1,730 registros con las siguientes columnas:
 
 3. Análisis por Categoría:
    - Categorías como herramientas de desarrollo de software y tecnológicas mostraron crecimiento en general.
-   - Productos creativos y educativos tuvieron desempeños mixtos, con algunas pérdidas en 2023.
+   - Productos creativos, educativos y de análisis de datos tuvieron desempeños mixtos, con algunas pérdidas en 2023.
 
 ## Conclusiones:
 
