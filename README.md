@@ -63,7 +63,7 @@ El conjunto de datos incluye 1,730 registros con las siguientes columnas:
 
 - Oportunidades de Mejora: Es crucial analizar factores internos y externos que afectan el desempeño en los últimos meses.
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas:
 
 - Python:
   - Bibliotecas: pandas, matplotlib, numpy
